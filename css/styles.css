@@ -10393,7 +10393,7 @@ header.masthead h1 {
 }
 
 .my-image{
-  width: 250px; height: 250px;
+  width: 40%; height: 40%;
   /* width: 37%; 
   height: 147%; 
   left: 43%; 
@@ -10403,7 +10403,7 @@ header.masthead h1 {
   /* left: 0;
   width: 80px;
   height: 80px; */
-  margin-left: 33%;
+  margin-left: 30%;
   text-align: center;
   color: white;
   border: 7px solid #e9ecef;
