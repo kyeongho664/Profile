@@ -10326,7 +10326,7 @@ header.masthead h1 {
   }
   .timeline > li {
     min-height: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
   }
   .timeline > li .timeline-panel {
     float: left;
